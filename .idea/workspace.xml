@@ -2,181 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c628b49-3eff-4063-aea3-959aedecaf06" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Lecture.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch01/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch01/ClassLoadEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch01/ClassLoaderEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch01/CommandArgsEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch01/CommentEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch01/ConsolePrintEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch01/ConsolePrintfEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch01/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/AsciiExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/BooleanTypeEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/ByteOverflow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/CharDataTypeEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/DataTypeEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/DataTypeEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/DecimalConvert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/FloatDataTypeEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/TyepCastingEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/TyepCastingEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/TypeCastingEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/VariableExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/VariableExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/BitOperatorEx7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/BitwiseOperatorEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/ConditionalOpratorEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/OperatorEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/OperatorEx10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/OperatorEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/OperatorEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/OperatorEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/OperatorEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/OperatorEx6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/OperatorEx8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/OperatorEx9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/OperatorLeftShiftEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/OperatorRightShiftEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/BreakEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/BreakEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/ContinueEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/ContinueEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/DoWhileEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/ForEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/ForeachEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/IfElseEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/IfElseifElseEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/IfOptional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/NestedForEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/NestedForGugudan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/NestedForStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/NestedIfEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/NestedSwitchEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/NestedWhileEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/SimpleIfEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/SwitchEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/SwitchEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch04/WhileEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/AccessModifierEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/AccessModifierEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/DefaultAccModClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/Hello2Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/ImportEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/PrivateAccModTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/ProtectedAccModClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/PublicAccModClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/isp/BadCaseConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/isp/ConvertCharToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/isp/ConvertIntToChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/isp/ConvertIntToDouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/isp/DataTypeConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/ocp/BadCaseVehicleInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/ocp/VehicleInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/srp/Percentage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/srp/PrintStudentDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/srp/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/test/pkg/AccessModifierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/test/pkg/PackageEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/test/pkg/ProtectedClassB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/test/pkg/PublicAccModTestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/ArrayCloneEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/ArrayCopyEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/ArrayCopyEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/ArrayEx01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/ArrayEx02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/ArrayEx03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/ArrayEx05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/ArrayEx06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/ArrayEx07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/DuplicateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/OddEvenInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/TestAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/TestStudent2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/CopyConstructorEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/InstanceStaticMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/MethodAddition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/MyDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/PassByValueEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/PassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/PassbyRefernceEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/VariableArrange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/LowerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/SingletonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/StaticInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/TestCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/TestThisEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/TestThisEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/TestThisEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch08/TestThisEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/TestBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/TestEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/covariant/CovarianSubClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/covariant/CovariantExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/covariant/StringProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/elevator/Elevator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/elevator/TestElevator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/methodhiding/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/methodhiding/BookExampleStaticMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/methodhiding/CourseBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/petinheritance/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/petinheritance/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/petinheritance/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/petinheritance/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/supertest/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/updowncast/UpCastingEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/AbstractBike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/CSR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/EABike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/Engineer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/hc/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/hc/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/hc/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/hc/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/hc/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/instof/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/instof/InstanceOfTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/polymultielvelinhr/BabyDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/polymultielvelinhr/BabyDogEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/polyshape/TestPolymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/templatemethod/AbstractDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/templatemethod/CharDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ch02/Homework_BackSeungHwan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ch04/Chapter4Homework백승환.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ch06/Chapter6Homework백승환.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ch07/MethodConstructorOverrodingHomework백승환.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ch08/Ch08HomeWork백승환/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ch08/Ch08HomeWork백승환/MenuOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ch08/Ch08HomeWork백승환/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ch08/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ch08/MenuOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ch08/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ch10/homework백승환/BasicPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ch10/homework백승환/Contents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ch10/homework백승환/Document.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ch10/homework백승환/HtmlPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ch10/homework백승환/PrintTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ch10/homework백승환/image/html.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP" beforeDir="false" afterPath="$PROJECT_DIR$/SMBE4-Java-OOP" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch01/Board.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch01/ClassLoadEx1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch01/ClassLoaderEx.java" beforeDir="false" />
@@ -631,6 +458,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Coding/Java_Lecture",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
@@ -670,7 +498,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673253094998</updated>
-      <workItem from="1673253096521" duration="296000" />
+      <workItem from="1673253096521" duration="624000" />
+      <workItem from="1673264800748" duration="1988000" />
     </task>
     <servers />
   </component>
