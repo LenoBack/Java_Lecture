@@ -2,444 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c628b49-3eff-4063-aea3-959aedecaf06" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ch01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch01/ch01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/ExceptionParsing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/ExceptionUserDefined.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/NonExceptionParsing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/NoneRuntimeExceptionEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/ServerTimedOutException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/testthrow/TestThrowChk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/testthrow/TestThrowUnChk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/ch10/solution/Contents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/ch10/solution/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/ch10/solution/DocumentDesc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/ch10/solution/DocumentFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/ch10/solution/HtmlDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/ch10/solution/TestDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/ch10/solution/TextDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/ch12/Ch12Homework백승환.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP" beforeDir="false" afterPath="$PROJECT_DIR$/SMBE4-Java-OOP" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch01/Board.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch01/ClassLoadEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch01/ClassLoaderEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch01/CommandArgsEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch01/CommentEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch01/ConsolePrintEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch01/ConsolePrintfEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch01/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch02/AsciiExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch02/BooleanTypeEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch02/ByteOverflow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch02/CharDataTypeEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch02/DataTypeEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch02/DataTypeEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch02/DecimalConvert.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch02/FloatDataTypeEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch02/TyepCastingEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch02/TyepCastingEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch02/TypeCastingEx3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch02/VariableExample1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch02/VariableExample2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch03/BitOperatorEx7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch03/BitwiseOperatorEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch03/ConditionalOpratorEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch03/OperatorEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch03/OperatorEx10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch03/OperatorEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch03/OperatorEx3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch03/OperatorEx4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch03/OperatorEx5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch03/OperatorEx6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch03/OperatorEx8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch03/OperatorEx9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch03/OperatorLeftShiftEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch03/OperatorRightShiftEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch04/BreakEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch04/BreakEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch04/ContinueEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch04/ContinueEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch04/DoWhileEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch04/ForEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch04/ForeachEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch04/IfElseEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch04/IfElseifElseEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch04/IfOptional.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch04/NestedForEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch04/NestedForGugudan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch04/NestedForStar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch04/NestedIfEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch04/NestedSwitchEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch04/NestedWhileEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch04/SimpleIfEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch04/SwitchEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch04/SwitchEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch04/WhileEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch05/AccessModifierEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch05/AccessModifierEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch05/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch05/DefaultAccModClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch05/Hello2Class.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch05/ImportEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch05/PrivateAccModTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch05/ProtectedAccModClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch05/PublicAccModClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch05/isp/BadCaseConversion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch05/isp/ConvertCharToString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch05/isp/ConvertIntToChar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch05/isp/ConvertIntToDouble.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch05/isp/DataTypeConversion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch05/ocp/BadCaseVehicleInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch05/ocp/VehicleInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch05/srp/Percentage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch05/srp/PrintStudentDetails.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch05/srp/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch05/test/pkg/AccessModifierTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch05/test/pkg/PackageEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch05/test/pkg/ProtectedClassB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch05/test/pkg/PublicAccModTestClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch06/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch06/ArrayCloneEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch06/ArrayCopyEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch06/ArrayCopyEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch06/ArrayEx01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch06/ArrayEx02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch06/ArrayEx03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch06/ArrayEx05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch06/ArrayEx06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch06/ArrayEx07.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch06/DuplicateArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch06/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch06/OddEvenInArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch06/Order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch06/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch06/TestAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch06/TestStudent2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch07/CopyConstructorEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch07/InstanceStaticMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch07/MethodAddition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch07/MethodOverloading.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch07/MyDate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch07/PassByValueEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch07/PassTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch07/PassbyRefernceEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch07/VariableArrange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch08/Company.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch08/Count.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch08/LowerClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch08/SingletonTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch08/StaticInitializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch08/TestCounter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch08/TestThisEx1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch08/TestThisEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch08/TestThisEx3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch08/TestThisEx4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch09/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch09/Count.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch09/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch09/Manager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch09/TestBank.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch09/TestEmployee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch09/covariant/CovarianSubClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch09/covariant/CovariantExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch09/covariant/StringProducer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch09/elevator/Elevator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch09/elevator/TestElevator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch09/methodhiding/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch09/methodhiding/BookExampleStaticMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch09/methodhiding/CourseBook.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch09/petinheritance/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch09/petinheritance/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch09/petinheritance/Duck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch09/petinheritance/Pet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch09/supertest/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch09/updowncast/UpCastingEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch10/AbstractBike.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch10/CSR.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch10/EABike.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch10/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch10/Engineer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch10/Manager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch10/hc/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch10/hc/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch10/hc/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch10/hc/Duck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch10/hc/Pet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch10/instof/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch10/instof/InstanceOfTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch10/polymultielvelinhr/BabyDog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch10/polymultielvelinhr/BabyDogEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch10/polyshape/TestPolymorphism.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch10/templatemethod/AbstractDisplay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/ch10/templatemethod/CharDisplay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch02/Chapter2HomeworkSolution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch02/HomeWork.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch02/HomeWork_LeeAhYoung.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch02/HomeWork김재완.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch02/HomeWork김재우" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch02/HomeWork박수빈.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch02/HomeWork이윤형.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch02/Homework(정재은).java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch02/HomeworkNoname.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch02/Homework_BackSeungHwan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch02/Homework백남현.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch02/Homework황규원.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch02/Homework고예림.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch02/Homework김도현.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch02/Homework김지수.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch02/Homework김태헌.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch02/Homework김해든.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch02/Homework김형준1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch02/Homework김형준2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch02/Homework류동우.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch02/Homework박주영.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch02/Homework변창우.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch02/Homework양진호.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch02/Homework유현주.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch02/Homework이경환.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch02/Homework이다빈.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch02/Homework임진묵.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch02/homeworkJiyoon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch02/homeworkSongYoungJin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch02/homework_홍정기" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch02/homework예병창.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4HomeWork예병창.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4HomeworkJiYoon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4HomeworkLimJinMook.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4HomeworkNoJAEWOO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4HomeworkNoName.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4HomeworkSolution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4HomeworkSongYoungJin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4Homework고예림.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4Homework김태헌.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4Homework백남현.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4Homework신효원.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4Homework이지훈.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4Homework황규원.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4Homework공익규.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4Homework김도현.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4Homework김우람.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4Homework김재완.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4Homework김지수.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4Homework김해든.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4Homework김형준1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4Homework류동우.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4Homework박수빈.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4Homework박주영.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4Homework백승환.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4Homework변창우.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4Homework송재근.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4Homework양진호.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4Homework유현주.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4Homework이경환.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4Homework이다빈.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4Homework이승민.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4Homework이아영.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4Homework정재은.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4Homework홍정기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch04/Chapter4HomworkLeeYunHyung.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch06/Chapter6HomeWork예병창.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch06/Chapter6HomeworkLimJinMook.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch06/Chapter6HomeworkNoKIMJAEWOO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch06/Chapter6HomeworkNoName.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch06/Chapter6HomeworkSolution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch06/Chapter6HomeworkSongYoungJin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch06/Chapter6Homework고예림.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch06/Chapter6Homework김태헌.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch06/Chapter6Homework백남현.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch06/Chapter6Homework신효원.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch06/Chapter6Homework이지훈.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch06/Chapter6Homework김도현.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch06/Chapter6Homework김우람.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch06/Chapter6Homework김재완.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch06/Chapter6Homework김지수.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch06/Chapter6Homework류동우.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch06/Chapter6Homework박수빈.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch06/Chapter6Homework박주영.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch06/Chapter6Homework백승환.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch06/Chapter6Homework변창우.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch06/Chapter6Homework송재근.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch06/Chapter6Homework양진호.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch06/Chapter6Homework유현주.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch06/Chapter6Homework이경환.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch06/Chapter6Homework이승민.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch06/Chapter6Homework정재은.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch06/Chapter6Homework황규원.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch06/Chapter6Homwork이윤형.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch07/Chapter7Homework송재근.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch07/Homework김형준1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch07/MethodConstructorOverloadingHomework양진호.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch07/MethodConstructorOverloadingHomework예병창.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch07/MethodConstructorOverrodingHomework.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch07/MethodConstructorOverrodingHomeworkSolution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch07/MethodConstructorOverrodingHomework_LimJinMook.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch07/MethodConstructorOverrodingHomework고예림.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch07/MethodConstructorOverrodingHomework김태헌.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch07/MethodConstructorOverrodingHomework백남현.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch07/MethodConstructorOverrodingHomework신효원.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch07/MethodConstructorOverrodingHomework이지훈.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch07/MethodConstructorOverrodingHomework황규원.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch07/MethodConstructorOverrodingHomework김도현.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch07/MethodConstructorOverrodingHomework김우람.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch07/MethodConstructorOverrodingHomework김재완.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch07/MethodConstructorOverrodingHomework김지수.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch07/MethodConstructorOverrodingHomework김지윤.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch07/MethodConstructorOverrodingHomework류동우.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch07/MethodConstructorOverrodingHomework박주영.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch07/MethodConstructorOverrodingHomework백승환.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch07/MethodConstructorOverrodingHomework변창우.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch07/MethodConstructorOverrodingHomework유현주.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch07/MethodConstructorOverrodingHomework이경환.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch07/MethodConstructorOverrodingHomework이승민.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch07/MethodConstructorOverrodingHomework이윤형.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch07/MethodConstructorOverrodingHomework정재은.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch07/MethodConstructorOverrodingHongJungGi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/Ch08HomeWork백승환/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/Ch08HomeWork백승환/MenuOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/Ch08HomeWork백승환/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/Chapter8HomeWork송재근/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/Chapter8HomeWork송재근/MenuOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/Chapter8HomeWork송재근/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/Chapter8Homework양진호/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/Chapter8Homework양진호/MenuOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/Chapter8Homework양진호/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/KIMJAEWOO/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/KIMJAEWOO/MenuOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/KIMJAEWOO/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/KimHyungJoon/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/KimHyungJoon/MenuOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/KimHyungJoon/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/KimHyungJoon2/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/KimHyungJoon2/MenuOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/KimHyungJoon2/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/KimHyungJoon2/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/KimTaeheon/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/KimTaeheon/MenuOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/KimTaeheon/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/LeeK이경환/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/LeeK이경환/MenuOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/LeeK이경환/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/LimJinmook/MenuOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/MenuOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/Yoohyunjoo/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/Yoohyunjoo/MenuOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/Yoohyunjoo/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/byunchangwoo/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/byunchangwoo/MenuOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/byunchangwoo/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/ch08김지윤/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/ch08김지윤/MenuOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/ch08김지윤/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/execsolu/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/execsolu/MenuOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/execsolu/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/homeworkSongYoungJin/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/homeworkSongYoungJin/MenuOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/homeworkSongYoungJin/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/homework고예림/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/homework고예림/MenuOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/homework고예림/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/homework김도현/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/homework김도현/MenuOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/homework김도현/MenuOrderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/homework김도현/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/homework김재완/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/homework김재완/MenuOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/homework김재완/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/homework백남현/Menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/homework백남현/MenuOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/homework백남현/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/homework황규원/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/homework황규원/MenuOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/homework황규원/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/이지훈/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/이지훈/MenuOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/이지훈/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/김지수/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/김지수/MenuOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/김지수/MenuOrderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/김지수/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/김형준1/MakeOrderRun.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/김형준1/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/김형준1/Order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/김형준1/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/박주영/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/박주영/MenuOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/박주영/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/예병창/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/예병창/MenuOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/예병창/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/이승민/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/이승민/MenuOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/이승민/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/이승민/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/이윤형/MenuOrder이윤형.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/이윤형/Menu이윤형.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/이윤형/Person이윤형.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/정재은/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/정재은/MenuOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch08/정재은/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/Chapter10Homework양진호/Contents.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/Chapter10Homework양진호/Document.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/Chapter10Homework양진호/HtmlDocument.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/Chapter10Homework양진호/TestDocument.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/Chapter10Homework양진호/TextDocument.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/Document.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/DocumentKIMJAEWOO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/Homeworkch10유현주.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/ch10이지훈/Document.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/ch10이지훈/TestDocument.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/ch10김지윤/Contents.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/ch10김지윤/Document.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/ch10김지윤/DocumentHTML.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/ch10김지윤/DocumentText.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/ch10김지윤/TestDocument.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homeworkSongYoungJin/Document.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homeworkSongYoungJin/DocumentTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homeworkSongYoungJin/HtmlDocument.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homeworkSongYoungJin/TextDocument.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework김태헌/Contents.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework김태헌/Document.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework김태헌/HtmlDocument.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework김태헌/TestMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework김태헌/TextDocument.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework김태헌/test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework김재완/Document.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework김재완/DocumentTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework김형준1/Contents.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework김형준1/Document.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework김형준1/DocumentTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework김형준1/HTMLDocument.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework김형준1/TextDocument.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework백승환/BasicPrint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework백승환/Contents.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework백승환/Document.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework백승환/HtmlPrint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework백승환/PrintTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework백승환/image/html.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework변창우/Contents.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework변창우/Document.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework변창우/HTMLDocument.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework변창우/TestDocument.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework변창우/TextDocument.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework예병창/Contents.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework예병창/Document.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework예병창/HTML.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework예병창/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework예병창/Text.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework임진묵/BookDocument.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework임진묵/Document.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework임진묵/DocumentTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework임진묵/NewsDocument.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework정재은/Contents.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework정재은/Document.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework정재은/HtmlContents.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework정재은/JsonContents.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework정재은/TestContents.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homework정재은/TextContents.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homwork이윤형/Document.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homwork이윤형/HtmlDocument.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/homwork이윤형/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/박주영/Document.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/박주영/HtmlDoc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/박주영/JsonDoc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/박주영/PrintDocuments.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/이승민/Contents.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/이승민/Document.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/이승민/HTMLDocument.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/이승민/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SMBE4-Java-OOP/src/homework/ch10/이승민/TextDocument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Lecture.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Lecture.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -448,7 +44,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2K58TpVK4yU01fEZzcR7F76168n" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -457,12 +55,20 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Coding/Java_Lecture",
-    "nodejs_package_manager_path": "npm"
+    "last_opened_file_path": "C:/Coding/JavaFastCampus_Lecture",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Coding\Java_Lecture\src\ch12" />
+      <recent name="C:\Coding\Java_Lecture\src\homework" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Coding\Java_Lecture\src" />
     </key>
@@ -470,7 +76,46 @@
       <recent name="homework" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Ch12Homework백승환">
+    <configuration name="Ch12Homework백승환" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.ch12.Ch12Homework백승환" />
+      <module name="Java_Lecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.ch12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionParsing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch12.ExceptionParsing" />
+      <module name="Java_Lecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionUserDefined" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch12.ExceptionUserDefined" />
+      <module name="Java_Lecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrintTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.ch10.homework백승환.PrintTest" />
       <module name="Java_Lecture" />
@@ -486,6 +131,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ch12Homework백승환" />
+        <item itemvalue="Application.ExceptionUserDefined" />
+        <item itemvalue="Application.ExceptionParsing" />
         <item itemvalue="Application.PrintTest" />
       </list>
     </recent_temporary>
@@ -499,7 +147,11 @@
       <option name="presentableId" value="Default" />
       <updated>1673253094998</updated>
       <workItem from="1673253096521" duration="624000" />
-      <workItem from="1673264800748" duration="1988000" />
+      <workItem from="1673264800748" duration="2046000" />
+      <workItem from="1673409826479" duration="2999000" />
+      <workItem from="1673431430022" duration="2630000" />
+      <workItem from="1673531178897" duration="5037000" />
+      <workItem from="1673578743061" duration="4181000" />
     </task>
     <servers />
   </component>
