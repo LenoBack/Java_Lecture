@@ -21,6 +21,9 @@
       <excludeFolder url="file://$MODULE_DIR$/src/homework/ch08" />
       <excludeFolder url="file://$MODULE_DIR$/src/homework/ch10/homework백승환" />
       <excludeFolder url="file://$MODULE_DIR$/src/homework/ch10" />
+      <excludeFolder url="file://$MODULE_DIR$/src/ch12" />
+      <excludeFolder url="file://$MODULE_DIR$/src/ch13" />
+      <excludeFolder url="file://$MODULE_DIR$/src/ch01" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
