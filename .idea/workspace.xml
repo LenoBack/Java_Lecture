@@ -2,28 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c628b49-3eff-4063-aea3-959aedecaf06" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch01/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch01/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch01/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch01/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch01/ch01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/ExceptionParsing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/ExceptionUserDefined.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/NonExceptionParsing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/NoneRuntimeExceptionEx01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/ServerTimedOutException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/testthrow/TestThrowChk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12/testthrow/TestThrowUnChk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ch10/solution/Contents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ch10/solution/Document.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ch10/solution/DocumentDesc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ch10/solution/DocumentFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ch10/solution/HtmlDocument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ch10/solution/TestDocument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ch10/solution/TextDocument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ch12/Ch12Homework백승환.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13/MathTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13/ObjectEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13/objgetclass/GetClassEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13/prop/PropertiesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13/prop/PropsTestEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13/string/StringEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13/string/StringEx02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13/wrapper/AutoBoxingUnBoxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13/wrapper/Boxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13/wrapper/NumberTestEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13/wrapper/UnBoxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13/wrapper/WrapperClassEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13/wrapper/WrapperClassEx02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/ch13/Ch13Homework백승환.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java_Lecture.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Lecture.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch01/ClassLoaderEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch01/ClassLoaderEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,38 +47,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Coding/JavaFastCampus_Lecture",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Coding/Java_Lecture&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Coding\Java_Lecture\src\ch13\string" />
+      <recent name="C:\Coding\Java_Lecture\src\ch13" />
       <recent name="C:\Coding\Java_Lecture\src\ch12" />
       <recent name="C:\Coding\Java_Lecture\src\homework" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Coding\Java_Lecture\src\ch13" />
       <recent name="C:\Coding\Java_Lecture\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="homework" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ch12Homework백승환">
-    <configuration name="Ch12Homework백승환" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.ch12.Ch12Homework백승환" />
+  <component name="RunManager" selected="Application.Ch13Homework백승환">
+    <configuration name="Board" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch01.Board" />
       <module name="Java_Lecture" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.ch12.*" />
+          <option name="PATTERN" value="ch01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionParsing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch12.ExceptionParsing" />
+    <configuration name="Ch13Homework백승환" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.ch13.Ch13Homework백승환" />
       <module name="Java_Lecture" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch12.*" />
+          <option name="PATTERN" value="homework.ch13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionUserDefined" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch12.ExceptionUserDefined" />
+    <configuration name="ClassLoaderEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch01.ClassLoaderEx" />
       <module name="Java_Lecture" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch12.*" />
+          <option name="PATTERN" value="ch01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +115,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.ch10.homework백승환.PrintTest" />
+    <configuration name="GetClassEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13.objgetclass.GetClassEx1" />
       <module name="Java_Lecture" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.ch10.homework백승환.*" />
+          <option name="PATTERN" value="ch13.objgetclass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PropertiesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13.prop.PropertiesTest" />
+      <module name="Java_Lecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch13.prop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,10 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ch12Homework백승환" />
-        <item itemvalue="Application.ExceptionUserDefined" />
-        <item itemvalue="Application.ExceptionParsing" />
-        <item itemvalue="Application.PrintTest" />
+        <item itemvalue="Application.Ch13Homework백승환" />
+        <item itemvalue="Application.ClassLoaderEx" />
+        <item itemvalue="Application.Board" />
+        <item itemvalue="Application.PropertiesTest" />
+        <item itemvalue="Application.GetClassEx1" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +164,10 @@
       <workItem from="1673409826479" duration="2999000" />
       <workItem from="1673431430022" duration="2630000" />
       <workItem from="1673531178897" duration="5037000" />
-      <workItem from="1673578743061" duration="4181000" />
+      <workItem from="1673578743061" duration="4213000" />
+      <workItem from="1673605603265" duration="4887000" />
+      <workItem from="1673623797572" duration="2440000" />
+      <workItem from="1673840392106" duration="1299000" />
     </task>
     <servers />
   </component>
